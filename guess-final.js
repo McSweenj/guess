@@ -8,8 +8,6 @@ var correctAnswer=false;
 var turns=0;
 // var answer integer, Picks number between (1-100).
 var answer = Math.round(Math.random()*100)+1;
-// var guess 
-var guess 
 //Gives answer for the console for testing
 console.log(answer);
   //whight a code that has the computer pick a random num 1 - 100 using a while statement and tell the user how meny turns it took them to get it right and asked for the users guess 
